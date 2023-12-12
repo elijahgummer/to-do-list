@@ -1,4 +1,4 @@
-To-Do List 📝
+<h1>To-Do List 📝</h1>
 A simple and stylish To-Do List web application with modern design and functionality.
 
 ##Getting Started 🚀
