@@ -1,4 +1,4 @@
-##To-Do List 📝
+To-Do List 📝
 A simple and stylish To-Do List web application with modern design and functionality.
 
 ##Getting Started 🚀
